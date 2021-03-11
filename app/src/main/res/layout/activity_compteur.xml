@@ -7,6 +7,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Controlleur.Compteur">
+    <ImageView
+        android:id="@+id/compteur_iv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ImageView>
+
+    <TextView
+        android:id="@+id/compteur_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Du text aléatoire"></TextView>
 
     <Button
         android:id="@+id/compteur_bt1"
