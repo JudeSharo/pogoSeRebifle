@@ -6,17 +6,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Controlleur.Compteur">
+    tools:context=".Controlleur.Compteur"
+    android:background="#FFB347">
     <ImageView
         android:id="@+id/compteur_iv1"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"></ImageView>
+        android:layout_height="wrap_content"
+        android:src="pogo-dort"></ImageView>
 
     <TextView
         android:id="@+id/compteur_tv1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Du text aléatoire"></TextView>
+        android:text="Du texte aléatoire"></TextView>
 
     <Button
         android:id="@+id/compteur_bt1"
