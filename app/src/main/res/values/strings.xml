@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pogologie</string>
+    <string name="compteur_bt1">Beau retour tonton</string>
+    <string name="texteCompteurNbPompes">Nombre pompes a faire aujourdhui</string>
+    <string name="texteCompteurNbPompesTotal">Nombre total de pompes faîtes à ce jour</string>
+    <string name="challenge">Le Challenge des chevaliers du Roi Pogo</string>
+    <string name="explicationChallenge">Lors de la soirée, plus ou moins alcoolisé, du 16 janvier 2021, le Grand Roi Pogo ordonna à ses chevaliers de se maintenir en forme. Pour cela, ils doivent réaliser des pompes tous les jours sauf le dimanche, le jour du grand Seigneur et Roi Pogo. \"Les Pompes S\'Incrémenteront Chaque Semaine\" nous dit notre Roi. Et ainsi fut-il.</string>
 </resources>
